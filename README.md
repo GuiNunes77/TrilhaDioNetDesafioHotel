@@ -18,4 +18,4 @@ O seu programa deverá cálcular corretamente os valores dos métodos da classe 
 ![Diagrama de classe estacionamento](diagrama_classe_hotel.png)
 
 ## Solução
-SOLUCIONADO EM 21/08/2023
+SOLUCIONADO EM 21/10/2023
